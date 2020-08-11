@@ -8,7 +8,7 @@ Hi, my name is Zuber Ahmed, I am an avid open source enthusiast and developer.
 
 Well i'm Coder, Learner, Student and maybe future Online Teacher (lol)
 
-I do make stuff like MOBILE APPS, WEB APPLICATON in various technology
+I do make stuff like MOBILE APPS, WEB APPLICATON in various technologies.
 
 Following is My Tech Stack
 
@@ -16,11 +16,11 @@ Following is My Tech Stack
     -   REACT NATIVE
     -   FLUTTER
     -   IONIC
-- WEB APP(BACKEND) TECHNOLOGIES
+- WEB APP (BACKEND) TECHNOLOGIES
     -   NODE(EXPRESS)
     -   RUBY ON RAILS
     -   DJANGO
-- WEB APP(FRONDEND) TECHNOLOGIES
+- WEB APP (FRONDEND) TECHNOLOGIES
     -   REACT
     -   VUE
     
