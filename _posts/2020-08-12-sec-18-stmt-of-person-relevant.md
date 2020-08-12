@@ -48,30 +48,22 @@ tags: [Evidence]
 - Person Expressly referred to
 
 ``` diff
-
 - Caselaw
-
 ```
 
 # Mayo v Mayo 1957
 
   
 
-whether conduct can amount to admission?
+    whether conduct can amount to admission?
 
   
-
-Mrs Mayo-child-admission-schl-
-
-details in form-father name didn't mentioned-
-
-Husband stmt- wife conduct to adultary on her party
-
-Court accept- such conduct raises presumption as either
-
-she is not knowning father or present husband
-
-is not father of child
+    Mrs Mayo-child-admission-schl-
+    details in form-father name didn't mentioned-
+    Husband stmt- wife conduct to adultary on her party
+    Court accept- such conduct raises presumption as either
+    she is not knowning father or present husband
+    is not father of child
 
   
 
@@ -84,10 +76,8 @@ is not father of child
 
   
 
-1. Weak case of evidence
-
-- Party does not have first hand knowledge regarding fact in issue
+1. Weak case of evidence    
+    - Party does not have first hand knowledge regarding fact in issue
 
 2. Admission are exception to Heresay Evidence
-
-- Example- Dying Declaration
+    - Example- Dying Declaration
