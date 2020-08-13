@@ -8,10 +8,11 @@ tags: [Evidence]
 
 
 # *SEC 17* Admission
-
+` `
 ```diff
 + Introduction
 ```
+` `
 
 ###  1. Admission are nothing  but statement
  - Oral
@@ -19,7 +20,7 @@ tags: [Evidence]
  - Electronic  Record
 
 ###  2. The Statement has an reference to fact in issue or  relevant fact
-
+` `
 ###  3. Such Statement must be made by person mention u/s 18
 
 ---
@@ -27,16 +28,17 @@ tags: [Evidence]
 ```diff
 + Reason for Admisibility..
 ```
-
+` `
 # Why Admission are admissible / Reason for Admisibility..
-
+` `
 ## 1. The admission act as waiver of proof
  > Fact which are admitted by party need not be proved
  
 ## 2. Statement against maker of the party
-
+` `
 ## 3. Admissible as contradictory statements
 
+` `
 ## 4. Evidence of Truth
 
 ---

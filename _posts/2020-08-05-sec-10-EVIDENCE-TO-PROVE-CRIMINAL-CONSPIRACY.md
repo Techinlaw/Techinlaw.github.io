@@ -12,8 +12,10 @@ tags: [Evidence]
 ## Essential
 
  1.  There Must be 2 person.
+ <br />
  2. Meeting of mind- common intention
- 3. Act must be done in  furthered in common intention
+ <br />
+3. Act must be done in  furthered in common intention
 
 ## Sec10- whatever things which are said, written, done in criminal conspiracy are relevant
 

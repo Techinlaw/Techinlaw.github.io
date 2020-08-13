@@ -18,7 +18,7 @@ tags: [Evidence]
 # `SEC 18` Statement of following person are relevant
 
   
-
+` `
 ### 1. Parties to the Suit
 
 - Plaintiff
@@ -32,11 +32,9 @@ tags: [Evidence]
   
 
 ### 2. Agents of the Parties
-
+` `
 ### 3. Person in Representative Character
-
-  
-
+` `
 ### 4. Statement by Third Parties -
 
 - Persons having pecuniary(financial) or proprietary interests
@@ -46,6 +44,8 @@ tags: [Evidence]
 - Person whose position is in issue or whose position is relevant
 
 - Person Expressly referred to
+
+---
 
 ``` diff
 - Caselaw

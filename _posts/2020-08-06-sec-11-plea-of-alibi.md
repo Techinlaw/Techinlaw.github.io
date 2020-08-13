@@ -8,6 +8,7 @@ tags: [Evidence]
 
 # *SEC 11* THE FACT NOT OTHERWISE RELEVANT   WHEN BECOME RELEVANT *(PLEA OF ALIBI)*
 	Presence else where
+<br />
 
  - ###   when the fact are inconsistent with fact in issue are relevant    
 

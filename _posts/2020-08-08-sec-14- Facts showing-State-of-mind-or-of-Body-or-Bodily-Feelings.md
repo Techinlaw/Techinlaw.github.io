@@ -24,9 +24,8 @@ tags: [Evidence]
 		  - Actus Non Facit Reum Nisi Mens Sit Rea
 		  - Sec 304A IPC  rashness + negligible
 		  - Sec 302 IPC - Intention to kill, knowledge
-
-
-		 - how to prove mental element u/s 14 
+         
+		  - how to prove mental element u/s 14 
 		   - It can be prove by conduct of party
 		   - Intention or knowledge
 
@@ -75,15 +74,17 @@ tags: [Evidence]
 	    Court- There is much timegap and non-relevant
 	    
 	    Stmt must be contomporious Statement(S.6)
-	    
+
+` `
 #### 3. Evidence of specific Fact only
 	
   - Evidence of Specific Fact only
   -  Evidence under General Tendency are not admissible u/s 14
+` `
 
 #### 4. Previous Conviction is relevant u/s  14
   Excludence of similar fact u/s 14
-	
+` `	
 
 ```diff
 - Caselaw 
