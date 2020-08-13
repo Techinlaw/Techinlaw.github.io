@@ -80,11 +80,12 @@ tags: [Evidence]
 	
   - Evidence of Specific Fact only
   -  Evidence under General Tendency are not admissible u/s 14
-` `
+  
+` `  
 
 #### 4. Previous Conviction is relevant u/s  14
   Excludence of similar fact u/s 14
-` `	
+  
 
 ```diff
 - Caselaw 
