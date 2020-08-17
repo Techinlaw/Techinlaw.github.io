@@ -9,8 +9,11 @@ tags: [Labour law, Trade union]
 # Mode of Registration
 
 1. Legal status of registered Trade unnion
+	Perpetual Succession and common seal- ener contract- get propery on  his name
 <br />
+
 2. compulsary v/s voluntary registration
+
 <br />
 
 3. Appointment of registrar
@@ -32,7 +35,7 @@ tags: [Labour law, Trade union]
     - registration of one union in one industry
 <br />
 
-6. Certificate of registration
+7. Certificate of registration
     - Conclusive Evidence
      
 ---

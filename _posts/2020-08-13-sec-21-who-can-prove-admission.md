@@ -15,6 +15,7 @@ tags: [Evidence]
   
 # `SEC 21` Who Can Prove Admission
 ` `
+
 > Statement of ***Plaintiff*** can be proved by ***defendant***
 > and  Statement of ***defendant*** can be proved by ***Plaintiff***
 
