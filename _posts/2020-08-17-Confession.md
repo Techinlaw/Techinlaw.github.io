@@ -40,7 +40,7 @@ tags: [Evidence]
 - Caselaw
 ```
  
-### Balwinder kaur V State of punjab- 1952
+### Palwinder kaur V State of punjab- 1952
 
   
 
@@ -50,7 +50,7 @@ tags: [Evidence]
     one day- neighbour-backside- smell well-
     police find dead body of husband after 2 month-
     body decomposed badly-postmortem didnt mention cause of death-
-    Balwinder said- husband illness-takes medicine-
+    Palwinder said- husband illness-takes medicine-
     by mistake took poison as medicine-death
 
     if she is innocent why she didnt inform police?
@@ -61,15 +61,36 @@ tags: [Evidence]
     innocene accept and guilt too
 
     SC:
-     Incomplatary- guilt accpt
-     Expultary - innocent
+     inculpatory- guilt accept
+     Exculpatory - innocent
 
-    Rule- accept by court which is supported by independent evidence 
+    Rule- accept as whole or reject as whole
 
-    Convicted
+    HC Convicted but SC Acquitted
 
- 
     
+
+### Nishikant Jha V State of bihar- 1959
+    
+  REF R V. Torrey - English law
+
+    Nishikant friends travel- next station- 
+    Friend Deadbody-
+    Meanwhile Nishikant aligarh-
+    Near station lake-
+    bloodstain cloth-
+    weapon-wash-
+    ladies-saw-
+    people grab- handed to police-
+    
+    Inquest panchnama- PM Report-
+    weapon-cloth-friend blood-match
+
+    Both the statement are not supported by SC
+    Quarrel part was accepted
+    
+    Convicted
+     
 ---
 
   
